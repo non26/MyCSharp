@@ -1,0 +1,7 @@
+C:\nonContent\CSharp\countElementInArray\countElementInArray\bin\Debug\countElementInArray.exe.config
+C:\nonContent\CSharp\countElementInArray\countElementInArray\bin\Debug\countElementInArray.exe
+C:\nonContent\CSharp\countElementInArray\countElementInArray\bin\Debug\countElementInArray.pdb
+C:\nonContent\CSharp\countElementInArray\countElementInArray\obj\Debug\countElementInArray.csprojAssemblyReference.cache
+C:\nonContent\CSharp\countElementInArray\countElementInArray\obj\Debug\countElementInArray.csproj.CoreCompileInputs.cache
+C:\nonContent\CSharp\countElementInArray\countElementInArray\obj\Debug\countElementInArray.exe
+C:\nonContent\CSharp\countElementInArray\countElementInArray\obj\Debug\countElementInArray.pdb

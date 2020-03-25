@@ -1,0 +1,7 @@
+C:\nonContent\CSharp\createArray\createArray\bin\Debug\createArray.exe.config
+C:\nonContent\CSharp\createArray\createArray\bin\Debug\createArray.exe
+C:\nonContent\CSharp\createArray\createArray\bin\Debug\createArray.pdb
+C:\nonContent\CSharp\createArray\createArray\obj\Debug\createArray.csprojAssemblyReference.cache
+C:\nonContent\CSharp\createArray\createArray\obj\Debug\createArray.exe
+C:\nonContent\CSharp\createArray\createArray\obj\Debug\createArray.pdb
+C:\nonContent\CSharp\createArray\createArray\obj\Debug\createArray.csproj.CoreCompileInputs.cache

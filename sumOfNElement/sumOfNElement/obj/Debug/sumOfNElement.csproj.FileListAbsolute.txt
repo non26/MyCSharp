@@ -1,0 +1,7 @@
+C:\nonContent\CSharp\sumOfNElement\sumOfNElement\bin\Debug\sumOfNElement.exe.config
+C:\nonContent\CSharp\sumOfNElement\sumOfNElement\bin\Debug\sumOfNElement.exe
+C:\nonContent\CSharp\sumOfNElement\sumOfNElement\bin\Debug\sumOfNElement.pdb
+C:\nonContent\CSharp\sumOfNElement\sumOfNElement\obj\Debug\sumOfNElement.csprojAssemblyReference.cache
+C:\nonContent\CSharp\sumOfNElement\sumOfNElement\obj\Debug\sumOfNElement.csproj.CoreCompileInputs.cache
+C:\nonContent\CSharp\sumOfNElement\sumOfNElement\obj\Debug\sumOfNElement.exe
+C:\nonContent\CSharp\sumOfNElement\sumOfNElement\obj\Debug\sumOfNElement.pdb

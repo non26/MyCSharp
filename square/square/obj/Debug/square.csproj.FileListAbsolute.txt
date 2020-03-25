@@ -1,0 +1,7 @@
+C:\nonContent\CSharp\square\square\bin\Debug\square.exe.config
+C:\nonContent\CSharp\square\square\bin\Debug\square.exe
+C:\nonContent\CSharp\square\square\bin\Debug\square.pdb
+C:\nonContent\CSharp\square\square\obj\Debug\square.csprojAssemblyReference.cache
+C:\nonContent\CSharp\square\square\obj\Debug\square.csproj.CoreCompileInputs.cache
+C:\nonContent\CSharp\square\square\obj\Debug\square.exe
+C:\nonContent\CSharp\square\square\obj\Debug\square.pdb

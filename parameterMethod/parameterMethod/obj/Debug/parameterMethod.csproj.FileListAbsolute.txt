@@ -1,0 +1,6 @@
+C:\nonContent\CSharp\parameterMethod\parameterMethod\bin\Debug\parameterMethod.exe.config
+C:\nonContent\CSharp\parameterMethod\parameterMethod\bin\Debug\parameterMethod.exe
+C:\nonContent\CSharp\parameterMethod\parameterMethod\bin\Debug\parameterMethod.pdb
+C:\nonContent\CSharp\parameterMethod\parameterMethod\obj\Debug\parameterMethod.csprojAssemblyReference.cache
+C:\nonContent\CSharp\parameterMethod\parameterMethod\obj\Debug\parameterMethod.exe
+C:\nonContent\CSharp\parameterMethod\parameterMethod\obj\Debug\parameterMethod.pdb

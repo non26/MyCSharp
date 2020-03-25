@@ -1,0 +1,6 @@
+C:\nonContent\CSharp\pointer\pointer\bin\Debug\pointer.exe.config
+C:\nonContent\CSharp\pointer\pointer\bin\Debug\pointer.exe
+C:\nonContent\CSharp\pointer\pointer\bin\Debug\pointer.pdb
+C:\nonContent\CSharp\pointer\pointer\obj\Debug\pointer.csprojAssemblyReference.cache
+C:\nonContent\CSharp\pointer\pointer\obj\Debug\pointer.exe
+C:\nonContent\CSharp\pointer\pointer\obj\Debug\pointer.pdb
